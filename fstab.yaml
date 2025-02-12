@@ -1,4 +1,4 @@
 mountpoints:
   /: https://drive.google.com/drive/folders/1t50I_Tv936icDOV_uDggPbDgZnAlIut2
 folders:
-  /products: /generic-products.md
+  /products: /data/generic-products.md
