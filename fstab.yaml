@@ -1,5 +1,5 @@
 mountpoints:
   /: https://drive.google.com/drive/folders/1t50I_Tv936icDOV_uDggPbDgZnAlIut2
 folders:
-  /products: /data/generic-products.md
+  /products: /products/generic-products.md
   /app: /spa/index.html
